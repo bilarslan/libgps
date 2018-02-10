@@ -106,4 +106,5 @@ That's all...
 This library is tested with:
 
  * Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates - Version 3
+ * GY-NEO6MV2 GPS
 
